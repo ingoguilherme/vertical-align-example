@@ -5,8 +5,8 @@ Example of vertical align using HTML and CSS
 ### CSS Code
 ```css
 .vertical-align {
-	display: flex;
-	align-items: center;
+    display: flex;
+    align-items: center;
 }
 ```
 
