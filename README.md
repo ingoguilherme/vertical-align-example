@@ -11,6 +11,9 @@ Example of vertical align using HTML and CSS
 ```
 
 ### Usage
+
+Use this class in addition to other classes and the content will be vertically aligned
+
 ```html
 <div class="myDiv vertical-align">
     <img class="image" src="images/arcade-machine.png" alt="Arcade">
